@@ -3,7 +3,7 @@
     "descricao" : "Eliminatoria da Copa do Mundo 2022",
     "Local" : {
                 "nome" : "Maracaña",
-                "imagem" : "TODO"
+                "imagem" : "https://www.gaveanews.com/wp-content/uploads/Interior-do-estadio-Maracana-1280x720.jpg"
     },
     "mandante" : {
                    "nome" : "Brasil",
@@ -20,7 +20,7 @@
     "descricao" : "Eliminatoria da Copa do Mundo 2022",
     "Local" : {
                 "nome" : "Pacaembu",
-                "imagem" : "TODO"
+                "imagem" : "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/05/capturar-11-599x338.png"
     },
     "mandante" : {
                    "nome" : "Uruguay",
@@ -37,7 +37,7 @@
     "descricao" : "Eliminatoria da Copa do Mundo 2022",
     "Local" : {
                 "nome" : "Morenão",
-                "imagem" : "TODO"
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/f/fa/0253l.jpg"
     },
     "mandante" : {
                    "nome" : "Brasil",
